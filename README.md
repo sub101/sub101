@@ -26,10 +26,7 @@ https://2bing01.tistory.com/
 
 ### 🍧Skills
 ##### Platforms & Languages
-<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-1E8CBE?style=plastic&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1E8CBE?style=plastic&logo=Java&logoColor=white"/>
 
 ##### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
