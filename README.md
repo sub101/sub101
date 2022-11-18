@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### ✨contact 
+#### ✨contact 
 ssubbin10@gmail.com  
 
-##### ✨blog  
+#### ✨blog  
 https://2bing01.tistory.com/  
 
 - I’m currently learning Kotlin & Android
 - I'm interested in Mobile
 
 ### 🌈Skills
-##### Platforms & Languages
+#### Platforms & Languages
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1E8CBE?style=plastic&logo=Java&logoColor=white"/>
 
-##### Tools
+#### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
 
 
