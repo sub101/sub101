@@ -1,6 +1,6 @@
-### Subin's Github
+### 👩‍💻 Subin's Github 👩‍💻
 
-Hi, I'm Subin, a kotlin developer from Korea.
+Hi, I'm Subin, a android developer from Korea.
 <!--
 **sub101/sub101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,5 +32,7 @@ https://2bing01.tistory.com/
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
 
 
-### Stats
+### 🎇Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub101&show_icons=true&theme=tokyonight)
+
+
