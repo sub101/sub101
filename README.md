@@ -21,7 +21,7 @@ ssubbin10@gmail.com
 #### ✨blog  
 https://2bing01.tistory.com/  
 
-- I’m currently learning Kotlin & Android
+- I’m currently learning Kotlin, Android, Flutter & Dart
 - I'm interested in Mobile
 
 ### 🌈Skills
