@@ -22,7 +22,6 @@ ssubbin10@gmail.com
 https://2bing01.tistory.com/  
 
 - I’m currently learning Kotlin, Android
-- I'm interested in Mobile
 
 ### 🌈Skills
 #### Platforms & Languages
